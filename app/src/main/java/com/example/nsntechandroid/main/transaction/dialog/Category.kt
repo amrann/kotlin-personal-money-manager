@@ -1,7 +1,13 @@
 package com.example.nsntechandroid.main.transaction.dialog
 
-data class Category(
-    val emoji: String,
-    val name: String,
-    var selected: Boolean
+import com.google.firebase.database.IgnoreExtraProperties
+
+@IgnoreExtraProperties
+class Category(
+    val emoji: String? = "",
+    val limit: Int? = 0,
+    val name: String? = "",
+    val tipe: String? = "",
+    var selected: Boolean = false,
+    var key: String? = ""
 )

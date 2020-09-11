@@ -63,7 +63,7 @@
         app:layout_constraintTop_toBottomOf="@id/lblType">
         
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/radioIncome"
+                android:id="@+id/radioIncome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:buttonTint="@color/colorPrimary"
@@ -136,6 +136,16 @@
         app:cornerRadius="5dp"
         app:layout_constraintTop_toBottomOf="@id/inputLimit"
         app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <ProgressBar
+        android:id="@+id/createKategoriProgress"
+        android:layout_width="23dp"
+        android:layout_height="23dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="@id/btnCreateCategory"
+        app:layout_constraintBottom_toBottomOf="@id/btnCreateCategory"
+        app:layout_constraintStart_toStartOf="@id/btnCreateCategory"
+        app:layout_constraintEnd_toEndOf="@id/btnCreateCategory"/>
 
 
 

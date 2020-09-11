@@ -1761,6 +1761,7 @@ id container
 id content
 id contentPanel
 id coordinator
+id createKategoriProgress
 id custom
 id customPanel
 id cut
