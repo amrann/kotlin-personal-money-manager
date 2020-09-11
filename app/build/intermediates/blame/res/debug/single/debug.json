@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_color_filter.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\color\\color_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_category.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\dialog_select_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigasi_graph.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\navigation\\navigasi_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_backspace_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_backspace_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_box_custom_textfield.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\color\\box_custom_textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\font_questrial.ttf.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\font\\questrial.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_budget_kontrol.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_budget_kontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_filter.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\bg_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spending.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_spending.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_selected.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\dot_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_bold.ttf.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\font\\raleway_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_item_3.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_item_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_onbording.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_onbording.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_pie_chart_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_pie_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_default.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\dot_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_item_2.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_item_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_create_category.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\dialog_create_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_filter.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_transaction.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bekron_top_rounded.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\bekron_top_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payments_24px.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_payments_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_gray.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\bg_rounded_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_indikator.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\dot_indikator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_item_1.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_bold_italic.ttf.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\font\\raleway_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigasi_color.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\color\\bottom_navigasi_color.xml"
+    }
+]

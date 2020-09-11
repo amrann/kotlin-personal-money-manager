@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">452029149216-jmlu3uhd92uf9a36h5kuec6udna5gtaa.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kotlin-personal-money-manager.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">452029149216</string>
+    <string name="google_api_key" translatable="false">AIzaSyChoIFF_g8CoSj-Z3SL06TDsPlufeFxDmQ</string>
+    <string name="google_app_id" translatable="false">1:452029149216:android:5191bceed5e0e14a470c45</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChoIFF_g8CoSj-Z3SL06TDsPlufeFxDmQ</string>
+    <string name="google_storage_bucket" translatable="false">kotlin-personal-money-manager.appspot.com</string>
+    <string name="project_id" translatable="false">kotlin-personal-money-manager</string>
+</resources>

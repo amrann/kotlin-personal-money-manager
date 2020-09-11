@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_onboarding_1">Manage Your Budgeting</string>
+    <string name="subtitle_onboarding_1">Easy manage your income and expense into category.</string>
+    <string name="title_onboarding_2">Track Your Expense</string>
+    <string name="subtitle_onboarding_2">Easy tracking and find your most spending at.</string>
+    <string name="title_onboarding_3">Set Your Goal</string>
+    <string name="subtitle_onboarding_3">You can set goals for your income and expense.</string>
+</resources>

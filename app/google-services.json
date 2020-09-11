@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452029149216",
+    "firebase_url": "https://kotlin-personal-money-manager.firebaseio.com",
+    "project_id": "kotlin-personal-money-manager",
+    "storage_bucket": "kotlin-personal-money-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452029149216:android:5191bceed5e0e14a470c45",
+        "android_client_info": {
+          "package_name": "com.example.nsntechandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452029149216-1t8gvknd63a4l3dtvj0tgu14ffqu85p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nsntechandroid",
+            "certificate_hash": "37707e50c83a877585bed3853015b06f52132c8b"
+          }
+        },
+        {
+          "client_id": "452029149216-jmlu3uhd92uf9a36h5kuec6udna5gtaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoIFF_g8CoSj-Z3SL06TDsPlufeFxDmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452029149216-jmlu3uhd92uf9a36h5kuec6udna5gtaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

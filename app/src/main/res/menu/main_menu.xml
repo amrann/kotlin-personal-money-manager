@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idHomeFrag"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/idTransactionFrag"
+        android:enabled="true"
+        android:icon="@drawable/ic_payments_24px"
+        android:title="Transaction" />
+
+    <item
+        android:id="@+id/idReportFrag"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_pie_chart_24"
+        android:title="Report" />
+
+</menu>
