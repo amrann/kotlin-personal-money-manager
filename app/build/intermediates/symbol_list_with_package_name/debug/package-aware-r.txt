@@ -1922,6 +1922,7 @@ id radio
 id radioExpense
 id radioGrupType
 id radioIncome
+id registerProgress
 id right
 id right_icon
 id right_side

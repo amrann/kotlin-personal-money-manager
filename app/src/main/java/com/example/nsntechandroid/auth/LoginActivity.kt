@@ -30,6 +30,10 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
+//        btnRegister.setOnClickListener {
+//            onBackPressed()
+//        }
+
         auth = Firebase.auth
         // Configure Google Sign In
         gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)

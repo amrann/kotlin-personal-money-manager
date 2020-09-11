@@ -27,15 +27,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.nsntechandroid.SplashActivity" />
-        <activity android:name="com.example.nsntechandroid.onboarding.OnboardingActivity" />
-        <activity android:name="com.example.nsntechandroid.auth.LoginActivity" />
-        <activity android:name="com.example.nsntechandroid.main.MainActivity" >
+        <activity android:name="com.example.nsntechandroid.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.nsntechandroid.onboarding.OnboardingActivity" />
+        <activity android:name="com.example.nsntechandroid.auth.LoginActivity" />
+        <activity android:name="com.example.nsntechandroid.main.MainActivity" >
         </activity>
         <activity android:name="com.example.nsntechandroid.auth.RegisterActivity" />
 

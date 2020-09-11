@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.firebase:firebase-auth-ktx:19.3.2] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\2a6ac42d01831d0f00628763d13003ca\jetified-firebase-auth-ktx-19.3.2\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-database-ktx:19.4.0] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\ce1c55d613f6377157071e61399bd5ac\jetified-firebase-database-ktx-19.4.0\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\7ba95c1e5cbc9e9940b503758e75a5aa\jetified-firebase-common-ktx-19.3.1\AndroidManifest.xml:2:1-21:12
@@ -87,25 +87,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ran\.gradle\c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\24a3f1a771a7a1dc90f151c63b6bc476\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\c4937e917775e54d9395dc9c781dcb79\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\0542219e217384ae275946fa6f3803f3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [com.google.firebase:firebase-auth-ktx:19.3.2] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\2a6ac42d01831d0f00628763d13003ca\jetified-firebase-auth-ktx-19.3.2\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-auth-ktx:19.3.2] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\2a6ac42d01831d0f00628763d13003ca\jetified-firebase-auth-ktx-19.3.2\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-database-ktx:19.4.0] C:\Users\ran\.gradle\caches\transforms-2\files-2.1\ce1c55d613f6377157071e61399bd5ac\jetified-firebase-database-ktx-19.4.0\AndroidManifest.xml:11:5-19:19
@@ -173,35 +173,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ra
 	android:name
 		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:6:9-36
 activity#com.example.nsntechandroid.SplashActivity
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:13:9-61
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
 		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:13:19-49
-activity#com.example.nsntechandroid.onboarding.OnboardingActivity
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:14:9-67
-	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:14:19-64
-activity#com.example.nsntechandroid.auth.LoginActivity
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:15:9-56
-	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:15:19-53
-activity#com.example.nsntechandroid.main.MainActivity
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:16:9-22:20
-	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:16:19-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.nsntechandroid.onboarding.OnboardingActivity
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:20:19-64
+activity#com.example.nsntechandroid.auth.LoginActivity
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.nsntechandroid.main.MainActivity
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:name
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:22:19-52
 activity#com.example.nsntechandroid.auth.RegisterActivity
-ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:23:9-59
+ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:25:9-59
 	android:name
-		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:23:19-56
+		ADDED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml:25:19-56
 uses-sdk
 INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ran\AndroidStudioProjects\NsntechAndroid\app\src\main\AndroidManifest.xml
