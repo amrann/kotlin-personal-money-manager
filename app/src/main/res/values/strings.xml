@@ -6,4 +6,5 @@
     <string name="subtitle_onboarding_2">Easy tracking and find your most spending at.</string>
     <string name="title_onboarding_3">Set Your Goal</string>
     <string name="subtitle_onboarding_3">You can set goals for your income and expense.</string>
+    <string name="category">Category</string>
 </resources>

@@ -92,64 +92,64 @@ class HomeFragment : Fragment() {
     }
 
     private fun setupTransactionList() {
-        val dummyData = listOf(
-            TransactionControl(
-                "\uD83C\uDF72",
-                "Food",
-                -50000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCB5",
-                "Royalty",
-                +100000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCE1",
-                "Quota",
-                -80000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83C\uDF72",
-                "Food",
-                -50000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCB5",
-                "Royalty",
-                +100000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCE1",
-                "Quota",
-                -80000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCB5",
-                "Royalty",
-                +100000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83D\uDCE1",
-                "Quota",
-                -80000,
-                "Sat, 08 July 2020"
-            ),
-            TransactionControl(
-                "\uD83C\uDF72",
-                "Food",
-                -50000,
-                "Sat, 08 July 2020"
-            )
-        )
+//        val dummyData = listOf(
+//            TransactionControl(
+//                "\uD83C\uDF72",
+//                "Food",
+//                -50000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCB5",
+//                "Royalty",
+//                +100000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCE1",
+//                "Quota",
+//                -80000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83C\uDF72",
+//                "Food",
+//                -50000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCB5",
+//                "Royalty",
+//                +100000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCE1",
+//                "Quota",
+//                -80000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCB5",
+//                "Royalty",
+//                +100000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83D\uDCE1",
+//                "Quota",
+//                -80000,
+//                "Sat, 08 July 2020"
+//            ),
+//            TransactionControl(
+//                "\uD83C\uDF72",
+//                "Food",
+//                -50000,
+//                "Sat, 08 July 2020"
+//            )
+//        )
 
-        transactionCtrlAdapter = TransactionControlAdapter(dummyData)
+        transactionCtrlAdapter = TransactionControlAdapter()
         listTransaction.apply {
             adapter = transactionCtrlAdapter
             layoutManager = LinearLayoutManager(requireContext(), LinearLayoutManager.VERTICAL, false)

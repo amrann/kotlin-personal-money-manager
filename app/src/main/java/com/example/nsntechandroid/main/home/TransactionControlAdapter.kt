@@ -7,10 +7,11 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.nsntechandroid.R
 import com.example.nsntechandroid.extension.toRupiahFormat
+import com.example.nsntechandroid.main.transaction.dialog.Category
 import kotlinx.android.synthetic.main.item_transaction.view.*
 
-class TransactionControlAdapter(val items: List<TransactionControl>) :
-    RecyclerView.Adapter<TransactionControlAdapter.ViewHolder>() {
+class TransactionControlAdapter() : RecyclerView.Adapter<TransactionControlAdapter.ViewHolder>() {
+    private val items: MutableList<TransactionControl> = mutableListOf()
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_transaction, parent, false)
@@ -29,10 +30,10 @@ class TransactionControlAdapter(val items: List<TransactionControl>) :
 
     inner class ViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
         fun bind(item: TransactionControl) = with(view) {
-            emojiTransaction.text = item.emoji
-            txtTransactionTitel.text = item.nama
-            txtAmount.text = item.nominal.toRupiahFormat()
-            txtDate.text = item.tanggal
+//            emojiTransaction.text = item.emoji
+//            txtTransactionTitel.text = item.nama
+//            txtAmount.text = item.nominal.toRupiahFormat()
+//            txtDate.text = item.tanggal
         }
 
     }

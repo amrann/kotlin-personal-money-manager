@@ -2009,6 +2009,7 @@ id title_template
 id top
 id topPanel
 id touch_outside
+id transactionProgress
 id transition_current_scene
 id transition_layout_save
 id transition_position
@@ -2235,6 +2236,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string category
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
