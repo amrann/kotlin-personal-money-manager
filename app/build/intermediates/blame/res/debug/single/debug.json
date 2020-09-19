@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_color_filter.xml.flat",
-        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\color\\color_filter.xml"
-    },
-    {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_report.xml.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_color_filter.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\color\\color_filter.xml"
     },
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_category.xml.flat",
@@ -16,12 +16,12 @@
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\navigation\\navigasi_graph.xml"
     },
     {
-        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_backspace_24.xml.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_backspace_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -162,6 +162,10 @@
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bekron_top_rounded.xml.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\bekron_top_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_2.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_home_2.xml"
     },
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payments_24px.xml.flat",

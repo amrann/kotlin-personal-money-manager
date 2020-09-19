@@ -8,10 +8,19 @@ import kotlinx.android.synthetic.main.item_budget_kontrol.view.*
 import com.example.nsntechandroid.R
 import com.example.nsntechandroid.extension.toRupiahFormat
 import com.example.nsntechandroid.extension.persenOf
+import com.example.nsntechandroid.main.transaction.dialog.Category
 
 
-class BudgetControlAdapter(val items: List<BudgetControl>) :
-    RecyclerView.Adapter<BudgetControlAdapter.ViewHolder>(){
+class BudgetControlAdapter : RecyclerView.Adapter<BudgetControlAdapter.ViewHolder>(){
+    private val items: MutableList<BudgetControl> = mutableListOf()
+
+    fun updateData(updateList: List<BudgetControl>) {
+        this.items.apply {
+            clear()
+            addAll(updateList)
+            notifyDataSetChanged()
+        }
+    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) : ViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_budget_kontrol, parent, false)

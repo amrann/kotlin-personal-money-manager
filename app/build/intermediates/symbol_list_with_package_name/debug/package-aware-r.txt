@@ -1818,6 +1818,7 @@ id icon_group
 id icon_only
 id idHomeFrag
 id idReportFrag
+id idSwitcher
 id idTransactionFrag
 id ifRoom
 id image
@@ -1919,6 +1920,7 @@ id pin
 id progressBujet
 id progress_circular
 id progress_horizontal
+id progressbarHome
 id radio
 id radioExpense
 id radioGrupType
@@ -2133,6 +2135,7 @@ layout emoji_popup_window_skin
 layout emoji_view
 layout emoji_view_category
 layout fragment_home
+layout fragment_home_2
 layout fragment_report
 layout fragment_transaction
 layout item_budget_kontrol
