@@ -18,4 +18,10 @@
         android:icon="@drawable/ic_baseline_pie_chart_24"
         android:title="Report" />
 
+    <item
+        android:id="@+id/idProfileFrag"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile" />
+
 </menu>

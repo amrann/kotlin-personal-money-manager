@@ -8,10 +8,6 @@
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_report.xml"
     },
     {
-        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_report_2.xml.flat",
-        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_report_2.xml"
-    },
-    {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_category.xml.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\dialog_select_category.xml"
     },
@@ -40,6 +36,10 @@
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_transaction.xml"
     },
     {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\font_questrial.ttf.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\font\\questrial.ttf"
     },
@@ -58,6 +58,10 @@
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spending.xml.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\layout\\item_spending.xml"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
     },
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_circle_24.xml.flat",
@@ -174,6 +178,10 @@
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foto.jpg.flat",
+        "source": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\src\\main\\res\\drawable\\foto.jpg"
     },
     {
         "merged": "C:\\Users\\ran\\AndroidStudioProjects\\NsntechAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding.xml.flat",

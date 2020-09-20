@@ -20,4 +20,9 @@
         android:name="com.example.nsntechandroid.main.report.ReportFragment"
         android:label="fragment_report"
         tools:layout="@layout/fragment_report" />
+    <fragment
+        android:id="@+id/idProfileFrag"
+        android:name="com.example.nsntechandroid.main.profile.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>

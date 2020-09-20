@@ -207,6 +207,10 @@ attr chipStrokeWidth
 attr chipStyle
 attr chipSurfaceColor
 attr circleCrop
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr closeIcon
 attr closeIconEnabled
 attr closeIconEndPadding
@@ -1588,8 +1592,10 @@ drawable emoji_google_sheet_7
 drawable emoji_google_sheet_8
 drawable emoji_google_sheet_9
 drawable emoji_recent
+drawable foto
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_baseline_account_circle_24
 drawable ic_baseline_arrow_drop_down_24
 drawable ic_baseline_backspace_24
 drawable ic_baseline_check_circle_24
@@ -1819,7 +1825,9 @@ id homeAsUp
 id icon
 id icon_group
 id icon_only
+id idCard
 id idHomeFrag
+id idProfileFrag
 id idReportFrag
 id idSwitcher
 id idTransactionFrag
@@ -1840,11 +1848,16 @@ id largeLabel
 id lblAmount
 id lblBudget
 id lblBulanan
+id lblEmail
 id lblHaveAnAccount
+id lblHobi
+id lblHp
+id lblJenkel
 id lblLimit
 id lblOptional
 id lblSpending
 id lblSubtitel
+id lblTgl
 id lblTitel
 id lblTransaction
 id lblType
@@ -2139,8 +2152,8 @@ layout emoji_popup_window_skin
 layout emoji_view
 layout emoji_view_category
 layout fragment_home
+layout fragment_profile
 layout fragment_report
-layout fragment_report_2
 layout fragment_transaction
 layout item_budget_kontrol
 layout item_category
@@ -2289,6 +2302,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3082,6 +3096,7 @@ styleable ButtonBarLayout allowStacking
 styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable Chip android_textAppearance android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance maxLines scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha

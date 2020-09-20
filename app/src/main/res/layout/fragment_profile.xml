@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/softBlue"
+    tools:context=".main.profile.ProfileFragment">
+
+    <RelativeLayout
+        android:id="@+id/idCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/foto"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"
+                app:civ_border_width="1dp"
+                app:civ_border_color="@android:color/white"/>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Amran"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:textSize="25sp"/>
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ANDROID DEVELOPER"
+                android:textColor="#fff"
+                android:textSize="18sp"/>
+        </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardElevation="8dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="300dp"
+            android:layout_marginHorizontal="30dp"
+            app:cardCornerRadius="8dp"
+            android:background="@color/softBlue">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="15dp"
+                android:paddingHorizontal="20dp">
+
+                    <TextView
+                        android:id="@+id/lblTgl"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Tanggal lahir "
+                        android:textColor="@color/textHeading"
+                        android:layout_marginTop="15dp"
+                        android:textSize="16dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="11 Juni 1995"
+                        android:textSize="16dp"
+                        android:textColor="@color/textHeading"
+                        app:layout_constraintBottom_toBottomOf="@id/lblTgl"
+                        app:layout_constraintEnd_toEndOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/lblJenkel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Jenis Kelamin "
+                        android:textColor="@color/textHeading"
+                        android:textSize="16dp"
+                        android:layout_marginTop="15dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/lblTgl"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Laki-Laki"
+                        android:textSize="16dp"
+                        android:textColor="@color/textHeading"
+                        app:layout_constraintBottom_toBottomOf="@id/lblJenkel"
+                        app:layout_constraintEnd_toEndOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/lblHobi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Hobi"
+                        android:textColor="@color/textHeading"
+                        android:textSize="16dp"
+                        android:layout_marginTop="15dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/lblJenkel"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Futsal/Renang/Ngoding"
+                        android:textSize="16dp"
+                        android:textColor="@color/textHeading"
+                        app:layout_constraintBottom_toBottomOf="@id/lblHobi"
+                        app:layout_constraintEnd_toEndOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/lblHp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="No. Telp "
+                        android:textColor="@color/textHeading"
+                        android:textSize="16dp"
+                        android:layout_marginTop="15dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/lblHobi"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="0853-9882-5854"
+                        android:textSize="16dp"
+                        android:textColor="@color/textHeading"
+                        app:layout_constraintBottom_toBottomOf="@id/lblHp"
+                        app:layout_constraintEnd_toEndOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/lblEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="Email "
+                        android:textColor="@color/textHeading"
+                        android:textSize="16dp"
+                        android:layout_marginTop="15dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/lblHp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/questrial"
+                        android:text="amr.bin.an@gmail.com"
+                        android:textSize="16dp"
+                        android:textColor="@color/textHeading"
+                        app:layout_constraintBottom_toBottomOf="@id/lblEmail"
+                        app:layout_constraintEnd_toEndOf="parent"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSetAmount"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginHorizontal="30dp"
+        android:fontFamily="@font/raleway_bold"
+        android:letterSpacing="0"
+        android:text="Logout"
+        android:backgroundTint="@color/red"
+        android:textAllCaps="false"
+        android:textSize="14sp"
+        app:cornerRadius="5dp"
+        app:layout_constraintBottom_toBottomOf="@id/idCard"/>
+
+
+</RelativeLayout>

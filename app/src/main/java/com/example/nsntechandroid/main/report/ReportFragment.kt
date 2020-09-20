@@ -1,8 +1,6 @@
 package com.example.nsntechandroid.main.report
 
-import android.content.Context
 import android.graphics.Color
-import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
@@ -31,6 +29,7 @@ import com.google.firebase.database.ktx.database
 import com.google.firebase.database.ktx.getValue
 import com.google.firebase.ktx.Firebase
 import kotlinx.android.synthetic.main.fragment_home.*
+import kotlinx.android.synthetic.main.fragment_home.idSwitcher
 import kotlinx.android.synthetic.main.fragment_report.*
 import java.util.ArrayList
 
@@ -54,7 +53,7 @@ class ReportFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_report_2, container, false)
+        return inflater.inflate(R.layout.fragment_report, container, false)
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
