@@ -30,23 +30,25 @@ val List<TransactionControl>.mingguIni: List<TransactionControl>
         it.tanggal?.timeMillisToTanggal()?.get(Calendar.WEEK_OF_YEAR) == curDate.get(Calendar.WEEK_OF_YEAR)
     }
 
-
+// menjumlahkan income/pendapatan pada filter bulanan
 val List<TransactionControl>.pendapatanBulanan: Int
     get() = bulanIni.filter {
-        it.category?.tipe == "income"
+        it.category?.tipe == "Income"
     }.sumBy { it.nominal ?: 0 }
 
 
-
+// menjumlahkan expense/pengeluaran pada filter bulanan
 val List<TransactionControl>.pengeluaranBulanan: Int
     get() = bulanIni.filter {
-        it.category?.tipe == "expense"
+        it.category?.tipe == "Expense"
     }.sumBy { it.nominal ?: 0 }
 
 
+// mencari category yang terpakai pada transaksi kemudian kita akan distict agar tidak duplikat
+// kemudian merubah menjadi BudgetControl
 val List<TransactionControl>.budgetCtrlBulanan: List<BudgetControl>
     get() = bulanIni
-        .filter { it.category?.tipe == "expense" }
+        .filter { it.category?.tipe == "Expense" }
         .distinctBy { it.category?.key }
         .groupBy { it.category }.map {
             BudgetControl(
@@ -58,6 +60,7 @@ val List<TransactionControl>.budgetCtrlBulanan: List<BudgetControl>
         }
 
 
+// menjalankan semua transaksi dalam satu bulan
 val List<TransactionControl>.laporanBulanan: List<TransactionControl>
     get() = bulanIni
         .distinctBy { it.category?.key }
@@ -70,6 +73,7 @@ val List<TransactionControl>.laporanBulanan: List<TransactionControl>
         }.sortedByDescending { it.nominal }
 
 
+// mencari category yang terpakai pada transaksi kemudian kita akan distict agar tidak duplikat
 val List<TransactionControl>.filterBulanan: List<Category>
     get() = bulanIni.distinctBy { it.category?.key }
         .groupBy { it.category }.map {

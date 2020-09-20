@@ -142,17 +142,34 @@ class HomeFragment : Fragment() {
 //                1500000
 //            )
 //        )
+
+//        budgetCtrlAdapter = BudgetControlAdapter()
+//        listBudgetControl.apply {
+//            adapter = budgetCtrlAdapter
+//            layoutManager = LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, false)
+//
+//            val firstLast = resources.getDimension(R.dimen.dp16).toInt()
+//            val rightLeftDefault = resources.getDimension(R.dimen.dp4).toInt()
+//            val topBottomDefault = resources.getDimension(R.dimen.dp8).toInt()
+//
+//            val dekora = HorizontalMarginDekorator(firstLast, rightLeftDefault, topBottomDefault)
+//            addItemDecoration(dekora)
+//        }
+//
+//        val snapHelper: SnapHelper = LinearSnapHelper()
+//        snapHelper.attachToRecyclerView(listBudgetControl)
         budgetCtrlAdapter = BudgetControlAdapter()
         listBudgetControl.apply {
             adapter = budgetCtrlAdapter
-            layoutManager = LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, false)
+            layoutManager =
+                LinearLayoutManager(requireContext(), LinearLayoutManager.HORIZONTAL, false)
 
             val firstLast = resources.getDimension(R.dimen.dp16).toInt()
             val rightLeftDefault = resources.getDimension(R.dimen.dp4).toInt()
             val topBottomDefault = resources.getDimension(R.dimen.dp8).toInt()
 
-            val dekora = HorizontalMarginDekorator(firstLast, rightLeftDefault, topBottomDefault)
-            addItemDecoration(dekora)
+            val decorator = HorizontalMarginDekorator(firstLast, rightLeftDefault, topBottomDefault)
+            addItemDecoration(decorator)
         }
 
         val snapHelper: SnapHelper = LinearSnapHelper()

@@ -1023,6 +1023,8 @@ color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
 color softBlue
+color softGreen
+color softRed
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -1739,6 +1741,7 @@ id buttonPanel
 id cancel_action
 id cancel_button
 id cardBulanan
+id cardTransaction
 id center
 id center_horizontal
 id center_vertical
@@ -1921,6 +1924,7 @@ id progressBujet
 id progress_circular
 id progress_horizontal
 id progressbarHome
+id progressbarReport
 id radio
 id radioExpense
 id radioGrupType
@@ -2135,8 +2139,8 @@ layout emoji_popup_window_skin
 layout emoji_view
 layout emoji_view_category
 layout fragment_home
-layout fragment_home_2
 layout fragment_report
+layout fragment_report_2
 layout fragment_transaction
 layout item_budget_kontrol
 layout item_category
