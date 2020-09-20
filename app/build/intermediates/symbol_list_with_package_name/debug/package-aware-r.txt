@@ -1739,6 +1739,7 @@ id btnCreate
 id btnCreateCategory
 id btnLogin
 id btnLoginWithGoogle
+id btnLogout
 id btnRegister
 id btnRegisterWithGoogle
 id btnSetAmount
