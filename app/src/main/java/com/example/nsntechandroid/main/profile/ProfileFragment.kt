@@ -24,13 +24,21 @@ class ProfileFragment : Fragment() {
 
         auth = FirebaseAuth.getInstance()
 
+
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
         btnLogout.setOnClickListener{
-            keluar()
+//            keluar()
+            val builder = androidx.appcompat.app.AlertDialog.Builder(requireActivity())
+            builder.setTitle("Logout")
+                .setMessage("Apakah Anda Yakin Ingin Keluar?")
+                .setNegativeButton("Tidak", {dialogInterface, i -> dialogInterface.dismiss()  })
+                .setPositiveButton("Ya", {dialogInterface, i -> keluar()  })
+            val dialog = builder.create()
+            dialog.show()
         }
     }
 
@@ -48,43 +56,4 @@ class ProfileFragment : Fragment() {
         i.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
         startActivity(i)
     }
-
-//    fun alertsignout() {
-//        val alertDialog2: AlertDialog.Builder = Builder(
-//            activity
-//        )
-//
-//        // Setting Dialog Title
-//        alertDialog2.setTitle("Confirm SignOut")
-//
-//        // Setting Dialog Message
-//        alertDialog2.setMessage("Are you sure you want to Signout?")
-//
-//        // Setting Positive "Yes" Btn
-//        alertDialog2.setPositiveButton("YES",
-//            DialogInterface.OnClickListener { dialog, which -> // Write your code here to execute after dialog
-//                auth.signOut()
-//                val i = Intent(
-//                    activity,
-//                    NewActivity::class.java
-//                )
-//                i.flags = Intent.FLAG_ACTIVITY_NEW_TASK or
-//                        Intent.FLAG_ACTIVITY_CLEAR_TASK
-//                startActivity(i)
-//            })
-//
-//        // Setting Negative "NO" Btn
-//        alertDialog2.setNegativeButton("NO",
-//            DialogInterface.OnClickListener { dialog, which -> // Write your code here to execute after dialog
-//                Toast.makeText(
-//                    ApplicationProvider.getApplicationContext(),
-//                    "You clicked on NO", Toast.LENGTH_SHORT
-//                )
-//                    .show()
-//                dialog.cancel()
-//            })
-//
-//        // Showing Alert Dialog
-//        alertDialog2.show()
-//    }
 }

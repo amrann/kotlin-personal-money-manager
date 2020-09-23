@@ -23,6 +23,8 @@ class TransactionControlAdapter() : RecyclerView.Adapter<TransactionControlAdapt
         }
     }
 
+
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_transaction, parent, false)
         return ViewHolder(view)
@@ -32,8 +34,8 @@ class TransactionControlAdapter() : RecyclerView.Adapter<TransactionControlAdapt
         return items.size
     }
 
-    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        with(holder) {
+    override fun onBindViewHolder(viewHolder: ViewHolder, position: Int) {
+        with(viewHolder) {
             bind(items[position])
         }
     }

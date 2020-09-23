@@ -8,9 +8,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.LinearSnapHelper
-import androidx.recyclerview.widget.SnapHelper
+import androidx.recyclerview.widget.*
 
 import com.example.nsntechandroid.R
 import com.example.nsntechandroid.common.HorizontalMarginDekorator
@@ -42,6 +40,7 @@ class HomeFragment : Fragment() {
         super.onCreate(savedInstanceState)
         database = Firebase.database.reference
         auth = Firebase.auth
+
     }
 
     override fun onCreateView(
