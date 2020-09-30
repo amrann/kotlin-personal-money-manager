@@ -14,6 +14,9 @@ import com.example.nsntechandroid.main.transaction.dialog.Category
 class BudgetControlAdapter : RecyclerView.Adapter<BudgetControlAdapter.ViewHolder>(){
     private val items: MutableList<BudgetControl> = mutableListOf()
 
+    private var removedPosition: Int = 0
+    private var removedItem: String = ""
+
     fun updateData(updateList: List<BudgetControl>) {
         this.items.apply {
             clear()
@@ -30,6 +33,21 @@ class BudgetControlAdapter : RecyclerView.Adapter<BudgetControlAdapter.ViewHolde
     override fun getItemCount(): Int {
         return items.size
     }
+
+    // *** tambahan ***
+//    fun removeItem(position: Int, viewHolder: RecyclerView.ViewHolder) {
+//        removedItem = items[position]
+//        removedPosition = position
+//
+//        items.removeAt(position)
+//        notifyItemRemoved(position)
+//
+//        Snackbar.make(viewHolder.itemView, "$removedItem removed", Snackbar.LENGTH_LONG).setAction("UNDO") {
+//            items.add(removedPosition, removedItem)
+//            notifyItemInserted(removedPosition)
+//
+//        }.show()
+//    }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         with(holder) {

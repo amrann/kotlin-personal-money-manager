@@ -24,7 +24,6 @@ class ProfileFragment : Fragment() {
 
         auth = FirebaseAuth.getInstance()
 
-
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
